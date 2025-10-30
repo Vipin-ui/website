@@ -248,7 +248,7 @@ const AboutSection = ({ id }) => (
           <div className="mt-6 pt-6 border-t border-purple-500/20">
             <div className="flex justify-around text-center">
               <div>
-                <div className="text-2xl font-bold text-blue-400">2024</div>
+                <div className="text-2xl font-bold text-blue-400">2025</div>
                 <div className="text-xs text-gray-400">Graduate</div>
               </div>
               <div>
