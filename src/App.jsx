@@ -26,7 +26,7 @@ const PROJECTS = [
 ];
 
 const EXPERIENCE = [
-  { role: 'Full Stack Developer', company: 'Comply Relex', duration: 'July 2024 - Present', description: 'Developing scalable MERN applications and RESTful APIs.', icon: '💼' },
+  { role: 'Full Stack Developer', company: 'Comply Relex', duration: 'July 2025 - Present', description: 'Developing scalable MERN applications and RESTful APIs.', icon: '💼' },
   { role: 'MERN Stack Intern', company: 'SKIT, Jaipur', duration: 'Summer 2023', description: 'Built full-stack applications and participated in code reviews.', icon: '🎓' }
 ];
 
